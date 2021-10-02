@@ -37,8 +37,12 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+# Jetbrains IDE
 .idea/*
 .idea/
+
+# Local History Plugin
+.history
 
 examples/011/my-repositories/*
 !examples/011/my-repositories/README.md
